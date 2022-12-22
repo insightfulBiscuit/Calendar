@@ -1,0 +1,17 @@
+-
+Daniel, 17, M, RHHS, 123456789
+1234
+Physics Test, 20221128, 900, 1010, 2044, Multiple Choice, 13, Physics, Momentum
+Math Quiz, 20221128, 1130, 1250, 2026, Unit 4, 3, Math, Trig Functions
+Victors Birthday, 20221129, 0, 2359, -, Birthday
+Work, 20221201, 1545, 1645, Richland, Gr. 3-4
+Physics Test, 20221202, 900, 1010, 2044, Long Answer, 13, Physics, Momentum
+Physics Lab, 20221202, 900, 1010, 2044, Lab, 7, Physics, Circular Motion
+Unicef Club, 20221219, 1535, 1635, 2037, General Meeting, Unicef
+-
+Amun, 17, M, RHHS, 234567890
+123abc
+Math Quiz, 20221213, 1130, 1250, 2026, HELP, 3, Math, Exponential Functions
+English Response, 20221214, 1250, 1410, 1060, Short Answer, 10, English, Book
+Snow Day, 20221215, 0, 2359, RHHS, Inclement Weather Day
+Oscilloscope Evaluation, 20221216, 1010, 1130, 1032, Eval
